@@ -1,0 +1,10 @@
+name: rf_wurdinger
+
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+    - lifelines
+    - json

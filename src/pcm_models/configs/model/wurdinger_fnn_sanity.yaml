@@ -1,0 +1,10 @@
+name: wurdinger_fnn_sanity.yaml
+architecture:
+    activation: selu
+    input_dim: 2048
+    output_dim: 1
+    number_hidden_layers: 5
+    number_hidden_neurons: 2048
+regularization:
+    input_dropout: 0.35
+    dropout: 0.35

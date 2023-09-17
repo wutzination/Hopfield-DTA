@@ -1,0 +1,6 @@
+defaults:
+    - data: server_hopfield_testset
+    - model: wurdinger_hopfield_testset
+    - training: hopfield
+    - inference: defaults
+    - ressources: server

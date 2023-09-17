@@ -1,0 +1,6 @@
+defaults:
+    - data: server_fnn_testset
+    - model: wurdinger_fnn_testset
+    - training: testset
+    - inference: defaults
+    - ressources: server

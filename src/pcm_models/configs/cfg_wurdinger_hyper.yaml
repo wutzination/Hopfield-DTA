@@ -1,0 +1,6 @@
+defaults:
+    - data: server_fnn_hyper
+    - model: wurdinger_fnn_hyper
+    - training: defaults
+    - inference: defaults
+    - ressources: server

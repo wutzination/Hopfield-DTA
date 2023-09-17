@@ -1,0 +1,6 @@
+path: '/system/user/publicdata/pcm_wurdinger/Tox21/preprocessed_data/'
+labels: 'labels.npy'
+mol_id: 'mol_ids.npy'
+target_id: 'target_ids.npy'
+features: 'mol_inputs.npy'
+split: 'split.npy'
