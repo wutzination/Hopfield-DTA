@@ -1,2 +1,3 @@
-# HopfieldDTA
-Predicting drug-target  binding affinities while enabling information sharing  between drugs and between targets with Modern  Hopfield Networks
+# PCM
+
+Master Thesis Laurenz Wurdinger: Can Modern Hopfield Networks improve SOTA PCM methods?

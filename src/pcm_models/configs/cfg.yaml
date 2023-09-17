@@ -1,0 +1,6 @@
+defaults:
+    - data: server
+    - model:  fully_connected_dnn
+    - training: defaults
+    - inference: defaults
+    - ressources: server

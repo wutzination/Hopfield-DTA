@@ -1,0 +1,17 @@
+name: wurdinger_hopfield_hyper.yaml
+architecture:
+    activation: relu
+    input_dim_prot: 1024
+    input_dim_mol: 1024
+    output_dim: 1
+    number_hidden_layers: 4
+    number_hidden_neurons: 2048
+    hop_scaling_prot: 0.5
+    hidden_size_prot: 8
+    num_heads_prot: 32
+    hop_scaling_mol: 0.5
+    hidden_size_mol: 32
+    num_heads_mol: 128
+regularization:
+    input_dropout: 0.35
+    dropout: 0.45

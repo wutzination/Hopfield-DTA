@@ -1,0 +1,10 @@
+name: fully_connected_dnn
+architecture:
+    activation: relu
+    input_dim: 2017
+    output_dim: 12
+    number_hidden_layers: 3
+    number_hidden_neurons: 1024
+regularization:
+    input_dropout: 0.5
+    dropout: 0.7
